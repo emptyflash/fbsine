@@ -1,0 +1,29 @@
+{
+    "name": "customseed",
+    "som": "seed",
+    "components": {
+        "knob1": {
+            "component": "AnalogControl",
+            "pin": 15
+        },
+        "knob2": {
+            "component": "AnalogControl",
+            "pin": 16
+        },
+        "knob3": {
+            "component": "AnalogControl",
+            "pin": 17
+        },
+        "knob4": {
+            "component": "AnalogControl",
+            "pin": 18
+        },
+        "button": {
+            "component": "Switch",
+            "pin": 19
+        },
+        "led": {
+            "component": "UserLed"
+        }
+    }
+}
